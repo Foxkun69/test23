@@ -5,19 +5,19 @@
 
     "Upi": "Upload Here",
 
-    "Qr": "link ảnh qr",
+    "Qr": "https://i.imgur.com/WTLOMtL.jpg",
 
-    "SERVER_Link": "link server",
+    "SERVER_Link": "https://discord.gg/KxJgsC2wFc",
 
-    "User_Id": "id người dùng",
+    "User_Id": "921300897475203103",
 
-    "LTC_ADDY": "addy ltc không có cũng được",
+    "LTC_ADDY": "LSLcGTEHwX2sELtDd1BAuGChSrL5gjhALX",
 
     "ltckey": "Upload Here",
 
     "apikey": "t-6671a344bf5dd5001c4cf40d-4b64fd6ff6634d3ebdaf6120", //cái này không sửa
 
-    "token": "token here",
+    "token": "OTIxMzAwODk3NDc1MjAzMTAz.GuvqIM.swWRlFyqgTqgw7cQ-DgsasL8xYB2sp5f25etCM",
 
     "prefix": "."
     }

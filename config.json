@@ -1,0 +1,23 @@
+{
+    "I2C_Rate": 90,
+
+    "C2I_Rate": 87,
+
+    "Upi": "Upload Here",
+
+    "Qr": "link ảnh qr",
+
+    "SERVER_Link": "link server",
+
+    "User_Id": "id người dùng",
+
+    "LTC_ADDY": "addy ltc không có cũng được",
+
+    "ltckey": "Upload Here",
+
+    "apikey": "t-6671a344bf5dd5001c4cf40d-4b64fd6ff6634d3ebdaf6120", //cái này không sửa
+
+    "token": "token here",
+
+    "prefix": "."
+    }
